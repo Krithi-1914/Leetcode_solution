@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Krithi-1914/Leetcode_solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0778-swim-in-rising-water](https://github.com/Krithi-1914/Leetcode_solution/tree/master/0778-swim-in-rising-water) |
+| [1488-avoid-flood-in-the-city](https://github.com/Krithi-1914/Leetcode_solution/tree/master/1488-avoid-flood-in-the-city) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Krithi-1914/Leetcode_solution/tree/master/0778-swim-in-rising-water) |
+| [1488-avoid-flood-in-the-city](https://github.com/Krithi-1914/Leetcode_solution/tree/master/1488-avoid-flood-in-the-city) |
 ## Union-Find
 |  |
 | ------- |
@@ -33,4 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Krithi-1914/Leetcode_solution/tree/master/0778-swim-in-rising-water) |
+| [1488-avoid-flood-in-the-city](https://github.com/Krithi-1914/Leetcode_solution/tree/master/1488-avoid-flood-in-the-city) |
+## Hash Table
+|  |
+| ------- |
+| [1488-avoid-flood-in-the-city](https://github.com/Krithi-1914/Leetcode_solution/tree/master/1488-avoid-flood-in-the-city) |
+## Greedy
+|  |
+| ------- |
+| [1488-avoid-flood-in-the-city](https://github.com/Krithi-1914/Leetcode_solution/tree/master/1488-avoid-flood-in-the-city) |
 <!---LeetCode Topics End-->
