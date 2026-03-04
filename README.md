@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Krithi-1914/Leetcode_solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Krithi-1914/Leetcode_solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0778-swim-in-rising-water](https://github.com/Krithi-1914/Leetcode_solution/tree/master/0778-swim-in-rising-water) |
 | [1488-avoid-flood-in-the-city](https://github.com/Krithi-1914/Leetcode_solution/tree/master/1488-avoid-flood-in-the-city) |
@@ -39,9 +40,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Krithi-1914/Leetcode_solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1488-avoid-flood-in-the-city](https://github.com/Krithi-1914/Leetcode_solution/tree/master/1488-avoid-flood-in-the-city) |
 ## Greedy
 |  |
 | ------- |
 | [1488-avoid-flood-in-the-city](https://github.com/Krithi-1914/Leetcode_solution/tree/master/1488-avoid-flood-in-the-city) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Krithi-1914/Leetcode_solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Krithi-1914/Leetcode_solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Krithi-1914/Leetcode_solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
