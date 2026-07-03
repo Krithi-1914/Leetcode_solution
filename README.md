@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Krithi-1914/Leetcode_solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0778-swim-in-rising-water](https://github.com/Krithi-1914/Leetcode_solution/tree/master/0778-swim-in-rising-water) |
 | [1488-avoid-flood-in-the-city](https://github.com/Krithi-1914/Leetcode_solution/tree/master/1488-avoid-flood-in-the-city) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Krithi-1914/Leetcode_solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Krithi-1914/Leetcode_solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Krithi-1914/Leetcode_solution/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Krithi-1914/Leetcode_solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
